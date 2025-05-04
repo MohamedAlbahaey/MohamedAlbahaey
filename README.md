@@ -3,6 +3,7 @@
 🎓 I'm a Computer Engineering student at the German University in Cairo (GUC)  
 📱 Flutter Developer | 💻 Future Software Engineer  
 🚀 Passionate about mobile development, problem solving, and impactful technology  
+🔍 Actively seeking internship opportunities
 🌍 Always eager to learn, build, and collaborate on meaningful projects  
 
 ## 🚧 Current Focus
