@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Albahaey
 
-<!--
-**MohamedAlbahaey/MohamedAlbahaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at the German University in Cairo (GUC)  
+📱 Flutter Developer | 💻 Future Software Engineer  
+🚀 Passionate about mobile development, problem solving, and impactful technology  
+🌍 Always eager to learn, build, and collaborate on meaningful projects  
 
-Here are some ideas to get you started:
+## 🚧 Current Focus
+- Mentoring Flutter workshops as IEEE GUC Mobile Development Committee Co-Head
+- Building apps with Flutter & Firebase
+- Exploring advanced software engineering concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Flutter & Dart  
+- Firebase  
+- Python, JavaScript, C#  
+- Node.js, EJS  
+- Unity Engine (C#)
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedalbahaey/)
+- 📧 mohamedalbahaey@gmail.com
+
+---
+
+_"Striving to build clean, efficient, and user-focused applications."_
