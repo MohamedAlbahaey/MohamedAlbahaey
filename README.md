@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Albahaey
+# 👋 Hi! I'm Mohamed Albahaey
 
 🎓 I'm a Computer Engineering student at the German University in Cairo (GUC)  
 📱 Flutter Developer | 💻 Future Software Engineer  
